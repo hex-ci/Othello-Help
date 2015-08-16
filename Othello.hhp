@@ -1,0 +1,34 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Othello.chm
+Contents file=Othello.hhc
+Default Font=宋体,9,134
+Default Window=Othello
+Default topic=index.htm
+Display compile progress=Yes
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x804 中文(中国)
+Title=黑白棋.Net 帮助系统
+
+[WINDOWS]
+Othello="黑白棋.Net 帮助系统","Othello.hhc","Index.hhk","index.htm","index.htm",,,,,0x61520,,0x3076,[1,1,641,481],,,,,,,0
+
+
+[FILES]
+index.htm
+intro.htm
+history.htm
+Game_Summarize.htm
+Game_Openings.htm
+Game_MiddleGame.htm
+Game_EndGame.htm
+Rule_Summarize.htm
+Rule_Pieces.htm
+Rule_GamePlay1.htm
+Rule_GamePlay2.htm
+Rule_EndGame.htm
+glossary.htm
+
+[INFOTYPES]
+
